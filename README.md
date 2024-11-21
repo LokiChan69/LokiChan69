@@ -1,3 +1,5 @@
+#🏄 Ibrokhim N
+
 - 👋 Hi, I’m @LokiChan69
 - 👀 I’m interested in Fullstack dev.
 - 🌱 I’m currently learning Laravel
