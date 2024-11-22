@@ -4,8 +4,7 @@
     Я — разработчик, создающий инновационные решения с использованием современных технологий. Всегда открыт для новых идей и возможностей для сотрудничества.
   </p>
   <br>
-  
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Your Avatar" width="150" style="border-radius: 50%; border: 4px solid #e74c3c;">
+
   
   <h3 style="color: #2c3e50; font-family: 'Arial', sans-serif; margin-top: 20px;">Мои технологии:</h3>
   <p style="font-family: 'Arial', sans-serif; color: #7f8c8d;">Я использую различные инструменты и технологии для разработки приложений. Вот некоторые из них:</p>
@@ -20,8 +19,8 @@
 
   <h3 style="color: #2c3e50; font-family: 'Arial', sans-serif; margin-top: 20px;">Обо мне:</h3>
   <ul style="font-family: 'Arial', sans-serif; color: #34495e; text-align: left; max-width: 600px; margin: 0 auto; padding-left: 20px;">
-    <li>🔭 Работаю над проектами на [технология]</li>
-    <li>🌱 Учусь новому: [новая технология]</li>
+    <li>🔭 Работаю над проектами на PHP, C#, C++</li>
+    <li>🌱 Учусь новому: Laravel</li>
     <li>💬 Открыт для сотрудничества и общения</li>
     <li>🚀 Мечтаю создать что-то действительно полезное для людей</li>
   </ul>
@@ -29,9 +28,9 @@
   <h3 style="color: #2c3e50; font-family: 'Arial', sans-serif; margin-top: 20px;">Мои проекты:</h3>
   <p style="font-family: 'Arial', sans-serif; color: #7f8c8d;">Вот некоторые из моих проектов, которые могут вас заинтересовать:</p>
   <ul style="font-family: 'Arial', sans-serif; color: #34495e; text-align: left; max-width: 600px; margin: 0 auto; padding-left: 20px;">
-    <li><a href="https://github.com/yourusername/project1" style="color: #e74c3c; text-decoration: none;">Проект 1</a> — Описание проекта 1.</li>
-    <li><a href="https://github.com/yourusername/project2" style="color: #e74c3c; text-decoration: none;">Проект 2</a> — Описание проекта 2.</li>
-    <li><a href="https://github.com/yourusername/project3" style="color: #e74c3c; text-decoration: none;">Проект 3</a> — Описание проекта 3.</li>
+    <li><a href="https://github.com/LokiChan69/MUNIM" style="color: #e74c3c; text-decoration: none;">Проект 1</a></li>
+    <li><a href="https://github.com/LokiChan69/Online-shop-proj" style="color: #e74c3c; text-decoration: none;">Проект 2</a></li>
+    <li><a href="https://github.com/LokiChan69/PortfolioProj" style="color: #e74c3c; text-decoration: none;">Проект 3</a></li>
   </ul>
 
   <h3 style="color: #2c3e50; font-family: 'Arial', sans-serif; margin-top: 30px;">Связаться со мной:</h3>
