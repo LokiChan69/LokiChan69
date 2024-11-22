@@ -1,5 +1,5 @@
+<h1 style="font-family: 'Arial', sans-serif; color: #2c3e50;">Привет, я <span style="color: #e74c3c;">Ибрагим</span> 👋</h1>
 <div align="center" style="background-color: #f4f7fc; padding: 40px; border-radius: 10px; max-width: 800px; margin: auto;">
-  <h1 style="font-family: 'Arial', sans-serif; color: #2c3e50;">Привет, я <span style="color: #e74c3c;">Ибрагим</span> 👋</h1>
   <p style="font-family: 'Arial', sans-serif; font-size: 18px; color: #34495e; max-width: 600px; margin: 0 auto;">
     Я — разработчик, создающий инновационные решения с использованием современных технологий. Всегда открыт для новых идей и возможностей для сотрудничества.
   </p>
@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3 Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/React-%23282C34?style=flat-square&logo=php&logoColor=purple" alt="React Badge" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=sql&logoColor=white" alt="Node.js Badge" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/React-%23282C34?style=flat-square&logo=php&logoColor=purple" alt="PHP Badge" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=sql&logoColor=white" alt="SQL Badge" style="margin: 5px;">
   </div>
 
   <h3 style="color: #2c3e50; font-family: 'Arial', sans-serif; margin-top: 20px;">Обо мне:</h3>
