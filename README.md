@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3 Badge" style="margin: 5px;">
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/React-%23282C34?style=flat-square&logo=react&logoColor=61DAFB" alt="React Badge" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js Badge" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/React-%23282C34?style=flat-square&logo=php&logoColor=purple" alt="React Badge" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=sql&logoColor=white" alt="Node.js Badge" style="margin: 5px;">
   </div>
 
   <h3 style="color: #2c3e50; font-family: 'Arial', sans-serif; margin-top: 20px;">Обо мне:</h3>
