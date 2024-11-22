@@ -35,7 +35,7 @@
   <p style="font-family: 'Arial', sans-serif; color: #34495e;">Не стесняйтесь связаться, я всегда открыт для новых возможностей!</p>
   <p style="font-family: 'Arial', sans-serif; color: #34495e;">
     📧 Email: <a href="mailto:your.email@example.com" style="color: #e74c3c; text-decoration: none;">ibragimnurullayev@gmail.com</a><br>
-    🐦 Insta: <a href="https://twitter.com/yourusername" style="color: #e74c3c; text-decoration: none;">[twitter.com/yourusername](https://www.instagram.com/cs_loki_/)</a>
+    🐦 Insta: <a href="https://twitter.com/yourusername" style="color: #e74c3c; text-decoration: none;">https://www.instagram.com/cs_loki_/</a>
   </p>
   
   <br>
