@@ -1,4 +1,4 @@
-<h1 style="font-family: 'Arial', sans-serif; color: #2c3e50;">Привет, я <span style="color: #e74c3c;">Ибрагим</span> 👋</h1>
+<h1 style="font-family: 'Arial', sans-serif; color: #2c3e50;">Привет, я <span style="color: red;">Ибрагим</span> 👋</h1>
 <div align="center" style="background-color: #f4f7fc; padding: 40px; border-radius: 10px; max-width: 800px; margin: auto;">
   <p style="font-family: 'Arial', sans-serif; font-size: 18px; color: #34495e; max-width: 600px; margin: 0 auto;">
     Я — разработчик, создающий инновационные решения с использованием современных технологий. Всегда открыт для новых идей и возможностей для сотрудничества.
