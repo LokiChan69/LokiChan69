@@ -1,5 +1,4 @@
 
-````markdown
 <div align="center">
 
 # 👋 Welcome to LokiChan69's GitHub
@@ -29,7 +28,7 @@
 🎨 Frontend:   JavaScript | TypeScript | Svelte  
 🗄️ Database:   PostgreSQL | MongoDB | Redis  
 ⚙️ DevOps:     Docker | Kubernetes | AWS  
-````
+
 
 ---
 
@@ -66,7 +65,6 @@
 
 ## 🚀 Featured Projects
 
-```text
 📌 AnimeAPI  
 Tech: Rust, Actix-web  
 ⭐ Stars: 142  
@@ -76,18 +74,15 @@ Tech: Rust, Actix-web
 Tech: Python, PyQt  
 ⭐ Stars: 87  
 🔗 github.com/LokiChan69/CodeVisualizer
-```
 
 ---
 
 ## 🌐 Socials & Links
 
-```text
 🔗 GitHub:   github.com/LokiChan69  
 🐦 Twitter:  twitter.com/LokiDev  
 💼 LinkedIn: linkedin.com/in/LokiChan69  
 📫 Email:    loki.dev@example.com
-```
 
 ---
 
