@@ -14,9 +14,8 @@
 ## 🧠 About Me
 
 - 🧑‍💻 Full-Stack Developer with backend focus
-- 🌍 Based in Europe/Moscow
-- 🧪 Coding in Rust, Python, and Svelte
-- 🛠️ DevOps enthusiast (Docker, K8s, AWS)
+- 🌍 Based in Asia/Uzbekistan
+- 🧪 Coding in Python, JS, PHP
 - 📈 Obsessed with performance and clean architecture
 
 ---
@@ -24,10 +23,9 @@
 ## 💻 Tech Stack
 
 
-🧠 Backend:    Python | Node.js | Rust  
-🎨 Frontend:   JavaScript | TypeScript | Svelte  
-🗄️ Database:   PostgreSQL | MongoDB | Redis  
-⚙️ DevOps:     Docker | Kubernetes | AWS  
+🧠 Backend:    Python | PHP
+🎨 Frontend:   JavaScript | HTML | CSS  
+🗄️ Database:   PostgreSQL | SQlite | MySQL  
 
 
 ---
@@ -54,8 +52,8 @@
 
 | Metric                | Value   |
 | --------------------- | ------- |
-| 🕒 Total Coding Hours | `4872h` |
-| 💻 Lines of Code      | `1.2M`  |
+| 🕒 Total Coding Hours | `30000+h` |
+| 💻 Lines of Code      | `5.5M`  |
 | ✅ Projects Completed  | `47`    |
 | 🚀 Commits            | `~4K`   |
 | 📦 Public Repos       | `80+`   |
@@ -63,26 +61,13 @@
 
 ---
 
-## 🚀 Featured Projects
-
-📌 AnimeAPI  
-Tech: Rust, Actix-web  
-⭐ Stars: 142  
-🔗 github.com/LokiChan69/AnimeAPI
-
-📌 CodeVisualizer  
-Tech: Python, PyQt  
-⭐ Stars: 87  
-🔗 github.com/LokiChan69/CodeVisualizer
-
----
 
 ## 🌐 Socials & Links
 
-🔗 GitHub:   github.com/LokiChan69  
-🐦 Twitter:  twitter.com/LokiDev  
-💼 LinkedIn: linkedin.com/in/LokiChan69  
-📫 Email:    loki.dev@example.com
+🔗 [GitHub](https://github.com/LokiChan69)  
+📸 [Instagram](https://www.instagram.com/cs_loki_/)  
+🎮 [Steam](https://steamcommunity.com/id/yann__/)  
+✉️ [Email](mailto:ibragimnurullayev@gmail.com)
 
 ---
 
