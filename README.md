@@ -1,10 +1,12 @@
 
+```markdown
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=LokiChan69&color=blueviolet)
 ![Repos](https://badges.pufler.dev/repos/LokiChan69?color=black)
 ![Years](https://badges.pufler.dev/years/LokiChan69?color=black)
 
+```python
 # -*- coding: utf-8 -*-
 class GitHubProfile:
     def __init__(self):
@@ -23,6 +25,7 @@ class GitHubProfile:
             'repos': random.randint(30, 100),
             'prs': random.randint(50, 200)
         }
+```
 
 # 📊 Hardcore Stats
 | Metric | Value |
@@ -37,7 +40,7 @@ class GitHubProfile:
 ![](https://github-profile-trophy.vercel.app/?username=LokiChan69&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
 
 # 💻 Tech Stack
-
+```rust
 // Primary Stack
 enum MainTech {
     Python,
@@ -53,12 +56,13 @@ impl Default for MainTech {
         Self::Rust
     }
 }
-
+```
 
 # 📈 Performance Metrics
 ![Metrics](https://metrics.lecoq.io/LokiChan69?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FMoscow)
 
 # 🚀 Latest Projects
+```javascript
 const projects = [
     {
         name: "AnimeAPI",
