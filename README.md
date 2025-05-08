@@ -64,10 +64,20 @@
 
 ## 🌐 Socials & Links
 
-🔗 [GitHub](https://github.com/LokiChan69)  
-📸 [Instagram](https://www.instagram.com/cs_loki_/)  
-🎮 [Steam](https://steamcommunity.com/id/yann__/)  
-✉️ [Email](mailto:ibragimnurullayev@gmail.com)
+<p>
+  <a href="https://github.com/LokiChan69">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/cs_loki_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://steamcommunity.com/id/yann__/">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
+  <a href="mailto:ibragimnurullayev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
