@@ -23,7 +23,7 @@
 
 ## 💻 Tech Stack
 
-```text
+
 🧠 Backend:    Python | Node.js | Rust  
 🎨 Frontend:   JavaScript | TypeScript | Svelte  
 🗄️ Database:   PostgreSQL | MongoDB | Redis  
