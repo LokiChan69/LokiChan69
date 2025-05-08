@@ -1,5 +1,4 @@
 
-```markdown
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=LokiChan69&color=blueviolet)
