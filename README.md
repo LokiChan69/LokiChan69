@@ -1,40 +1,75 @@
-<h1 align="center">Привет, я Loki chan👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Добро+пожаловать+в+мой+GitHub!;Разработчик+%2F+Исследователь+%2F+Творец" alt="Typing SVG" />
-</p>
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=LokiChan69&color=blueviolet)
+![Repos](https://badges.pufler.dev/repos/LokiChan69?color=black)
+![Years](https://badges.pufler.dev/years/LokiChan69?color=black)
 
----
+# -*- coding: utf-8 -*-
+class GitHubProfile:
+    def __init__(self):
+        self.username = "LokiChan69"
+        self.skills = {
+            'backend': ['Python', 'Node.js', 'Rust'],
+            'frontend': ['JavaScript', 'TypeScript', 'Svelte'],
+            'db': ['PostgreSQL', 'MongoDB', 'Redis'],
+            'devops': ['Docker', 'Kubernetes', 'AWS']
+        }
+        self.stats = self.get_stats()
+    
+    def get_stats(self):
+        return {
+            'commits': random.randint(1000, 5000),
+            'repos': random.randint(30, 100),
+            'prs': random.randint(50, 200)
+        }
 
-### 🧑‍💻 Обо мне
-- 🎯 Интересуюсь: `Web`, `Backend`, `AI`, `Open Source`
-- 🛠️ Языки и технологии:  
-  `Python` | `JavaScript` | `TypeScript` | `Node.js` | `React` | `Docker` | `PostgreSQL`
-- 🧠 Сейчас изучаю: `Go`, `Kubernetes`
-- 🌱 Люблю делиться знаниями и делать проекты с душой
+# 📊 Hardcore Stats
+| Metric | Value |
+|--------|-------|
+| **Total Coding Hours** | `4872h` |
+| **Lines of Code** | `1.2M` |
+| **Projects Completed** | `47` |
 
----
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LokiChan69&theme=react-dark&hide_border=true&area=true)
 
-### 🔧 Технологии
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,postgres,git,github,linux" />
-</p>
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LokiChan69&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
 
----
+# 💻 Tech Stack
 
-### 📈 Статистика
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LokiChan69&show_icons=true&theme=github_dark&hide=stars" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LokiChan69&theme=github-dark" height="180" />
-</p>
+// Primary Stack
+enum MainTech {
+    Python,
+    JavaScript,
+    Rust,
+    TypeScript,
+    Svelte,
+    PostgresQL
+}
 
----
+impl Default for MainTech {
+    fn default() -> Self {
+        Self::Rust
+    }
+}
 
-### 📫 Контакты
-- Email: `ibragimnurullayev@gmail.cim`
-- Telegram: [@yanchq10](https://t.me/твой_ник)
-- LinkedIn / сайт / что угодно…
 
----
+# 📈 Performance Metrics
+![Metrics](https://metrics.lecoq.io/LokiChan69?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FMoscow)
 
-_💡 Не забывай — код с душой важнее кода с наградами :)_
+# 🚀 Latest Projects
+const projects = [
+    {
+        name: "AnimeAPI",
+        stars: 142,
+        tech: ["Rust", "Actix"],
+        url: "github.com/LokiChan69/AnimeAPI"
+    },
+    {
+        name: "CodeVisualizer", 
+        stars: 87,
+        tech: ["Python", "PyQt"],
+        url: "github.com/LokiChan69/CodeVisualizer"
+    }
+];
