@@ -1,5 +1,3 @@
-Here's the error-free version of your README with all Mermaid diagrams fixed and optimized for GitHub:
-
 # Ibrokhim Nurullaev 
 #### *ML Engineer & Systems Architect*
 > *"Building intelligent systems at the intersection of algorithms and infrastructure"*
