@@ -52,6 +52,6 @@ cd hangul-cnn && pip install -r requirements.txt
 ## 📬 Connect
 
 [![GitHub](https://img.shields.io/badge/-@LokiChan69-181717?style=for-the-badge&logo=github)](https://github.com/LokiChan69)
-[![Email](https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:ibragimnurullayev@gmail.com)
 
 > *"**未来創造**"*
