@@ -8,11 +8,6 @@ Here's the error-free version of your README with all Mermaid diagrams fixed and
 ---
 
 ## 📊 GitHub Metrics
-```python
-# Engineering Process
-def build_systems():
-    return architect() >> implement() >> optimize()
-```
 
 ![Metrics](https://github-readme-stats.vercel.app/api?username=LokiChan69&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LokiChan69&layout=compact&theme=radical)
