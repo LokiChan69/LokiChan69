@@ -20,7 +20,7 @@ pie title Tech Stack
     "FastAPI" : 25
     "PostgreSQL" : 20
     "scikit learn" : 20
-    "Linux" : 5
+    "Linux" : 35
 ```
 
 ---
